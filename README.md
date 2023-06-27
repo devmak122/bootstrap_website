@@ -1,2 +1,2 @@
 # bootstrap_website
-i developed  this website using boostrap. to see the website visit https://devmakwana .me/
+i developed  this website using boostrap. to see the website visit https://devmakwana.me/
